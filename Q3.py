@@ -1,0 +1,5 @@
+P = float(input("enetr initial principal balance: "))
+r = float(input("enter annual interest rate: ")) 
+t = float(input("enetr time in years: "))
+SI = (P*r*t)
+print("SI is:", SI)
